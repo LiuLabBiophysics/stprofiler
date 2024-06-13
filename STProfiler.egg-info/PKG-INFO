@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: STProfiler
+Version: 0.0.2
+Author: Garrick Chang
+Author-email: changg@iu.edu
+
+Spatial Transcriptomics Profiler (STProfiler) is a python package for researchers to interpret spatial transcriptomics in single-cell level,                       by extracting spatial transcriptomic features from smFISH images.                       Package includes image analysis pipeline, spatial transcriptomic profile extraction pipeline and machine learning pipeline.

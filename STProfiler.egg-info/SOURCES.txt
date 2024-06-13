@@ -1,0 +1,7 @@
+setup.py
+STProfiler/__init__.py
+STProfiler.egg-info/PKG-INFO
+STProfiler.egg-info/SOURCES.txt
+STProfiler.egg-info/dependency_links.txt
+STProfiler.egg-info/requires.txt
+STProfiler.egg-info/top_level.txt
