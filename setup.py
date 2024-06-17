@@ -1,9 +1,11 @@
 from setuptools import setup, find_packages
 
+__version__ = '0.0.2'
+
 setup(
     
     name='STProfiler',
-    version='0.0.2',
+    version=__version__,
     long_description='Spatial Transcriptomics Profiler (STProfiler) is a python package for researchers to interpret spatial transcriptomics in single-cell level, \
                       by extracting spatial transcriptomic features from smFISH images. \
                       Package includes image analysis pipeline, spatial transcriptomic profile extraction pipeline and machine learning pipeline.',
