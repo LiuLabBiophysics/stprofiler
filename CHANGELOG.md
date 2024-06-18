@@ -1,5 +1,19 @@
 # CHANGELOG
 
+## v0.0.2 (2024-06-18)
+
+### Documentation
+
+* docs(organize docs): organize test data and notebooks ([`bdd00c2`](https://github.com/LiuLabIUPUI/STProfiler/commit/bdd00c2c03fe2063a0aab105c80c3c0e8cbcab3b))
+
+### Fix
+
+* fix(fix_toml): fix line error in pyproject.toml ([`cbb1a73`](https://github.com/LiuLabIUPUI/STProfiler/commit/cbb1a7311bff8d82202bbe371ec83fb07bd71adf))
+
+### Refactor
+
+* refactor(change_poetry): change package management to poetry ([`3ecd4aa`](https://github.com/LiuLabIUPUI/STProfiler/commit/3ecd4aab29f02c3a1d5930871b971d6e0e30dfba))
+
 ## v0.0.1 (2024-06-17)
 
 ### Fix
