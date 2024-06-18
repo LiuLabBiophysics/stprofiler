@@ -1,2 +1,31 @@
 [tool.semantic_release]
 version_variables = ["setup.py:__version__"]
+[tool.poetry]
+name = "stprofiler"
+version = "0.0.1"
+description = "a package for analyzing spatial transcriptomic features of smFISH images"
+authors = ["Garrick Chang"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.8"
+numpy = "1.24.4"
+scipy = "1.10.1"
+seaborn = "0.13.2"
+matplotlib = "3.7.5"
+pandas = "2.0.3"
+scikit-learn = "1.3.2"
+scikit-image = "0.21.0"
+imbalanced-learn = "0.12.3"
+tqdm = "4.66.4"
+segment-anything = "1.0"
+pillow = "10.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.semantic_release]
+version_variable = "pyproject.toml:version"
