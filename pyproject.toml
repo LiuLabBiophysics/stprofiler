@@ -3,7 +3,7 @@ name = "stprofiler"
 version = "0.0.1"
 description = "a package for analyzing spatial transcriptomic features of smFISH images"
 authors = [
-    { name = "Garrick Chang", "email = "changg@iu.edu" }
+    { name = "Garrick Chang", email = "changg@iu.edu" }
 ]
 license = "MIT"
 readme = "README.md"
