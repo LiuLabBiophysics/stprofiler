@@ -1,5 +1,3 @@
-[tool.semantic_release]
-version_variables = ["setup.py:__version__"]
 [tool.poetry]
 name = "stprofiler"
 version = "0.0.1"
