@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## v0.0.3 (2024-06-18)
+
+### Fix
+
+* fix(toml): fix syntax error in pyproject.toml ([`90fb471`](https://github.com/LiuLabIUPUI/STProfiler/commit/90fb471b6bd12cc4374167fe774068effc43db67))
+
+* fix(shorten_setup): shorten setup.py for poetry ([`f6bec3c`](https://github.com/LiuLabIUPUI/STProfiler/commit/f6bec3c4030d0b800bd45539e079981c3008a42f))
+
 ## v0.0.2 (2024-06-18)
 
 ### Documentation
