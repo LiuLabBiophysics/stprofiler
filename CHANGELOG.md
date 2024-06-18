@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## v0.0.4 (2024-06-18)
+
+### Documentation
+
+* docs(readme): add README.md ([`4f482b9`](https://github.com/LiuLabIUPUI/STProfiler/commit/4f482b9394dff565b8e1757f8f519c2d647babf0))
+
+### Fix
+
+* fix(toml file): fix syntax error ([`5d80eb1`](https://github.com/LiuLabIUPUI/STProfiler/commit/5d80eb1ff9ff0fab95c301a3aa58afc332adc1e2))
+
+* fix(toml_email): fix author email format in pyproject.toml ([`40385d5`](https://github.com/LiuLabIUPUI/STProfiler/commit/40385d5c54f47a833baba629b52e4a35ad7df651))
+
 ## v0.0.3 (2024-06-18)
 
 ### Fix
