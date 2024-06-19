@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "stprofiler"
-version = "0.0.1"
+version = "0.0.5"
 description = "a package for analyzing spatial transcriptomic features of smFISH images"
 authors = [
     "Garrick Chang <changg@iu.edu>" 

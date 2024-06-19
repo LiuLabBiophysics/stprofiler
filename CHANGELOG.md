@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v0.0.5 (2024-06-19)
+
+### Fix
+
+* fix(version_bumping): fix version bumping with semantic-release ([`914d141`](https://github.com/LiuLabIUPUI/STProfiler/commit/914d1419cb8d55c134c9cd097613ab2561a1f524))
+
 ## v0.0.4 (2024-06-18)
 
 ### Documentation
