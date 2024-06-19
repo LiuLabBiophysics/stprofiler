@@ -28,4 +28,5 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.semantic_release]
-version_variable = "pyproject.toml:version"
+version_variables = ["STProfiler/__init__.py:__version__"]
+version_toml = ["pyproject.toml:tool.poetry.version"]
