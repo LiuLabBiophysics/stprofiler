@@ -31,5 +31,5 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.semantic_release]
-version_variables = ["STProfiler/__init__.py:__version__"]
+version_variables = ["stprofiler/__init__.py:__version__"]
 version_toml = ["pyproject.toml:tool.poetry.version"]
