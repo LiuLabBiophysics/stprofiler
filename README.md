@@ -36,7 +36,11 @@ conda create -n stp_env python=3.8
 conda activate stp_env
 ```
 
-STProfiler is currently available on Test-PyPI
+STProfiler is currently available on PyPI
+
+```
+pip install stprofiler
+```
 
 
 ## License
